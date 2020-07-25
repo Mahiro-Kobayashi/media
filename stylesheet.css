@@ -79,6 +79,7 @@
    text-align: center;
    color: white;
    background-color: black;
+   display: inline-block;
  }
 
  section {
