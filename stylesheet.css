@@ -73,9 +73,10 @@
 @media (max-width: 960px){
 
  .alart {
+   padding-top: 20%;
    width: 100%;
    height: 100vh;
-   line-height: 100vh;
+   /* line-height: 100vh; */
    text-align: center;
    color: white;
    background-color: black;
